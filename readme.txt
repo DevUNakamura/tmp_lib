@@ -1,2 +1,1 @@
-edit by dev01
-add test project
+remove all messages
